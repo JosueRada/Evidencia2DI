@@ -1,0 +1,18 @@
+body{
+	background-color: #e3e3e3;
+	font-family: courier;
+	color:black;
+	margin: 0px;
+}
+
+div.opcion{
+	margin:20px 30px 20px 30px;
+	background-color:white;
+	height:150px;
+	border: 3px solid black;
+	transition: margin .3s;
+}
+
+div.opcion:hover{
+	margin: 10px 20px 10px 20px;
+}
